@@ -9,4 +9,4 @@ openai syntax according to version 1.24.1
 1. make a .env file
 2. generate your openai api key
 3. insert your api key in the env
-4. change this line according to your .env variable `api_key= os.getenv('OPENAI_API_KEY')`
+4. change this line in app.py according to your .env variable `api_key= os.getenv('OPENAI_API_KEY')`
