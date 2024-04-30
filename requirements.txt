@@ -1,0 +1,7 @@
+json>=2.0.9
+openai>=1.24.1
+pandas>=1.5.2
+matplotlib>=3.6.2
+streamlit>=1.18.0
+yfinance>=0.1.74
+python-dotenv>=0.21.0
